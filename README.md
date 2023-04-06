@@ -7,3 +7,6 @@ The final design is not fully functional: only the few first messages are encode
 
 # Algorithm
 We use a modular exponentiation algorithm wich is optimize with binary representation of numbers. The multiplication of numbers is made using the Blakley's algorithm.
+
+# Using the design
+To open and work on the design with Vivado, you need to run the file regenarate.tcl
